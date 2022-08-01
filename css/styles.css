@@ -1,0 +1,53 @@
+body {
+  background-color: #FFF5EB;
+  font-family: Arial;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+hr {
+  border-top: 4px dotted #DEEDF0;
+  border-left:none;
+  height: 0px;
+  width: 4%;
+  background-color: none;
+}
+
+h1 {
+  color: #F4C7AB;
+  font-family: 'RujisHandwritingFontv20Medium';
+  font-weight: normal;
+  font-style: normal;
+}
+
+h3 {
+  color: #B2B8A3;
+  font-family: 'RujisHandwritingFontv20Medium';
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  color: #B2B8A3;
+  font-family: 'HeraclitoRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+ul {
+  font-family: 'HeraclitoRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+ol {
+  font-family: 'HeraclitoRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+table {
+  font-family: 'HeraclitoRegular';
+  font-weight: normal;
+  font-style: normal;
+}
